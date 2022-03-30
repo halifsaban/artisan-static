@@ -3,6 +3,8 @@
 @section('content')
     <h1>Welcome to Artisan Static</h1>
 
+    <p>This is to show that I'm diplaying for dev build only.</p>
+
     <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
 
     <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
